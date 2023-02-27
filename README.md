@@ -26,4 +26,4 @@ Users are welcome to add comments and improvements to the code and to share the 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
