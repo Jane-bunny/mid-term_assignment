@@ -1,10 +1,10 @@
 # Write the Floyd-Warshall Algorithm with recursion
 
-# Define the variable INF, which represent the opposite nodes and nodes
+# Define the variable INF, which represents the opposite nodes and nodes
 # which are not in the path direction.
 INF = 10**9
 
-# Define the function which find the shortes path from input graph.
+# Define the function which finds the shortest path from input graph.
 def floyd_warshall_recursive(graph, number_nodes):
     """
     Finds the shortest path between all pairs of nodes in a graph using\
